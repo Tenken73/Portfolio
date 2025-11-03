@@ -21,9 +21,9 @@ Explore my work through interactive demonstrations of research methodologies and
 
 **Select Your Interest:**
 
-[π Academic Research & CV](#academic) β Research papers, methodologies, and scholarly work
+[Academic Research & CV](#academic) Research papers, methodologies, and scholarly work
 
-[πΌ Professional Projects & Resume](#professional) β Applied solutions, deployed systems, and industry experience
+[Professional Projects & Resume](#professional) Applied solutions, deployed systems, and industry experience
 
 ---
 
