@@ -1,43 +1,33 @@
-# Portfolio
-Test
-# JeQa Powe: Operations & Economic Analyst | Active TS/SCI
+# Landing Page Introduction
 
-## The Core Mission (The Hook)
+```markdown
+# Welcome | JeQa Powe
 
-The same tools that map threats can map opportunity. I’m a cleared Operations Analyst and Howard Economist who spent **ten years building and maintaining critical IT systems.** I leverage geospatial analysis and LLMs—the same methods I used at **JWAC**—to combat Black wealth disparity. Food deserts aren't accidents; they are policy outcomes. My mission is to measure and dismantle those structures.
+**Quantitative Analyst | Operations Research | Machine Learning & Geospatial Intelligence | Information Systems & Technology**
 
----
+I build data-driven solutions at the intersection of economics, intelligence analysis, and advanced computational methods. With an M.A. in Economics from Howard University and 5+ years deploying machine learning systems and geospatial analytics in defense and intelligence environments, I translate complex problems into actionable insights.
 
-## Choose Your Path
+**Background:**
+- π― Former DoD Research Operations Analyst (TS/SCI) building ML pipelines for operational targeting
+- π Specialized in network analysis, spatial econometrics, and cross-domain data integration
+- πΊοΈ Expert in ArcGIS, Python, R, and geospatial intelligence applications
+- π Economics researcher with presentations to National Economic Council and Federal Reserve Board
 
-### 🟢 1. For Immediate Hire (The Analyst & Operations Pro)
-
-**Target Roles:** Data Analyst, Info Systems, Operations Research, Security (Cleared/Federal)
-
-**Value Proposition:** Technical reliability meets high-stakes analysis.
-
-* **Active TS/SCI Clearance** (Transfer-Eligible)
-* **Operational Reliability:** 10+ years in IT Support & Info Systems (Tier 2/3). E-5 Army Veteran leadership experience.
-* **Technical Skills:** Python, R, SQL, ArcGIS/QGIS, LLM Fine-Tuning, Geospatial Analysis.
-* **Next Step:** [Link to your professional resume/CV PDF]
-
-### 🟡 2. For Academic Inquiry (The PhD Economist)
-
-**Target Programs:** Applied Microeconomics, Urban Development, Policy (Fall 2026)
-
-**Research Agenda:** Black wealth disparity, Heirs' Property law, urban agriculture, and spatial econometrics.
-
-* **Academic Base:** M.A. Economics (Howard University), Post-Grad Math (UC San Diego).
-* **Policy Focus:** Reframing policy failures (e.g., zoning laws) as the primary cause of economic exclusion.
-* **Methods:** Quantitative Modeling, Regression Discontinuity, Difference-in-Differences, Spatial Econometrics.
-* **Next Step:** [Link to your Academic CV and strong writing sample/thesis abstract]
+**This Portfolio:**
+Explore my work through interactive demonstrations of research methodologies and applied analytics solutions. Choose your path below to see my full credentials and live project demonstrations.
 
 ---
 
-## Contact
+**Select Your Interest:**
 
-I am actively seeking immediate, high-leverage roles.
+[π Academic Research & CV](#academic) β Research papers, methodologies, and scholarly work
 
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Resume/CV Download:** [Link to your main resume/CV]
+[πΌ Professional Projects & Resume](#professional) β Applied solutions, deployed systems, and industry experience
+
+---
+
+*Currently based in Washington, DC Metro | TS/SCI Clearance (transferable through 2027)*
+```
+
+---
+
